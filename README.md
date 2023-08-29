@@ -16,4 +16,6 @@ individual. The program should enable users to search and filter the information
 - Database: MongoDB cluster
 
 ### Requirements:
-- 
+- Information display
+- Filter information
+- Search information
